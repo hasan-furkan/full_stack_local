@@ -166,7 +166,9 @@ let y = 10;
 
 [x, y] = [y, x];
 console.log('x =',x,'y =',y); */
+//iterate methods
 
+//foreach ve for in boş elemanları atlar, for of ve for atlamaz.
 const colors = ["Red", "Yellow",, "Green", "Blue", "Pink","Purple","Gray","lime"];
 console.log(colors);
 
@@ -178,4 +180,4 @@ for (let i = 0; i < colors.length;i++){
 
 // for (let i in colors) console.log(colors[i])
 
-// colors.forEach(i=>console.log(i))
+// colors.forEach(i=>console.log(i)) //içerisine call back function alır
