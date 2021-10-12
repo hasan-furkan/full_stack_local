@@ -29,7 +29,7 @@ The clarusway-workshop repository contains materials related to the IT trainings
 - [React Workshop](./react/README.md)
 
   - [REACT Workshop Hands-on Trainings](./react/hands-on/README.md)
-
+ 
   - [REACT Workshop Projects](./react/projects/README.md)
 
   - [REACT Session Class-notes](./react/class-notes/README.md)
